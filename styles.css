@@ -2,7 +2,7 @@ body {
     padding-left: 15px;
     padding-right:15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #D9F9F1;
+    background: linear-gradient(180deg,#D9F9F1, #77bea9);
 }
 
 h2 {
