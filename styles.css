@@ -1,0 +1,41 @@
+body { 
+    padding-left: 15px;
+    padding-right:15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #D9F9F1;
+}
+
+h2 {
+    text-indent: 10px;
+}
+
+p {
+    background-color: #B2E0D5;
+    text-indent: 15px;
+}
+
+header {
+    text-align: center;
+    font-size: 20pt;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    border: solid black 3px;
+}
+
+.tall {
+    height: 300px;
+    width: 282px;
+}
+
+footer {
+    font-size: 7pt;
+}
+
+#jump {
+    color: #2F5962;
+    text-align: center;
+}
